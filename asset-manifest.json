@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/clone-starbuck/static/css/main.91412ee3.css",
+    "main.js": "/clone-starbuck/static/js/main.243a4e77.js",
+    "static/media/coffie.jpg": "/clone-starbuck/static/media/coffie.9f48a57f9e99fc9afe7f.jpg",
+    "static/media/starBucksRewards.jpg": "/clone-starbuck/static/media/starBucksRewards.cc514818fbd3dd640ecd.jpg",
+    "static/media/juice.jpg": "/clone-starbuck/static/media/juice.af94e92de811f381cb54.jpg",
+    "static/media/backit.jpg": "/clone-starbuck/static/media/backit.8d091e9592cb45976450.jpg",
+    "static/media/hotchoco.jpeg": "/clone-starbuck/static/media/hotchoco.6475991febbe94713e80.jpeg",
+    "static/media/CaffeAmericano.jpeg": "/clone-starbuck/static/media/CaffeAmericano.b64d289b513c500e644e.jpeg",
+    "index.html": "/clone-starbuck/index.html",
+    "main.91412ee3.css.map": "/clone-starbuck/static/css/main.91412ee3.css.map",
+    "main.243a4e77.js.map": "/clone-starbuck/static/js/main.243a4e77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91412ee3.css",
+    "static/js/main.243a4e77.js"
+  ]
+}
